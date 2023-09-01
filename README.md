@@ -14,5 +14,6 @@
 
 ### Main Repo
 https://github.com/suno-ai/bark <br />
+https://github.com/KevinWang676/Bark-Voice-Cloning <br />
 https://github.com/C0untFloyd/bark-gui <br />
 https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning/tree/main <br />
